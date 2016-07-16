@@ -50,6 +50,7 @@ class MapRSanitySimulation extends Simulation {
     _url_prefix + _nodes.split(",").head + _url_postfix +
       "/create?path=" + _buildTableName(clusterName, tableName) + "&tabletype=json"
   }
+  def _testCreate = ???
 
   // replica autosetup url
   def _replicaAutosetupUrl(srcclusterName: String, srcTableName: String,
