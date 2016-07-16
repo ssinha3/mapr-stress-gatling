@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: io.gatling.highcharts:gatling-charts-highcharts:2.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.gatling.highcharts/gatling-charts-highcharts/jars/gatling-charts-highcharts-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.gatling.highcharts/gatling-charts-highcharts/docs/gatling-charts-highcharts-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.gatling.highcharts/gatling-charts-highcharts/srcs/gatling-charts-highcharts-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

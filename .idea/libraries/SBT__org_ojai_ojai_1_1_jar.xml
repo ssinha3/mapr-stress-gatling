@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.ojai:ojai:1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.ojai/ojai/jars/ojai-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.ojai/ojai/docs/ojai-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.ojai/ojai/srcs/ojai-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

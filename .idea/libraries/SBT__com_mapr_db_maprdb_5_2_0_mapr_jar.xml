@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.mapr.db:maprdb:5.2.0-mapr:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mapr.db/maprdb/jars/maprdb-5.2.0-mapr.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mapr.db/maprdb/docs/maprdb-5.2.0-mapr-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapr-stress-gatling.iml" filepath="$PROJECT_DIR$/.idea/modules/mapr-stress-gatling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapr-stress-gatling-build.iml" filepath="$PROJECT_DIR$/.idea/modules/mapr-stress-gatling-build.iml" />
+    </modules>
+  </component>
+</project>

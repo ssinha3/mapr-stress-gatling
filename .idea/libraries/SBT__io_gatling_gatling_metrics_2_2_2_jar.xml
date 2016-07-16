@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: io.gatling:gatling-metrics:2.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.gatling/gatling-metrics/jars/gatling-metrics-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.gatling/gatling-metrics/docs/gatling-metrics-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.gatling/gatling-metrics/srcs/gatling-metrics-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
